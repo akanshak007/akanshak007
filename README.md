@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @akanshak007
-- 👀 I’m interested in SQL, Python, Tableau, Data Visualisation dashboard, Data modeling.
-- 🌱 I’m currently learning Python.
+- 🌱 DataPlatforms: BigQuery, Snowflake
+- 🌱 Transformation Tools: Data Build Tool(dbt)
+- 🌱 Languages: SQL/PLSQL
+- 🌱 Data Visualisation Tools: Google Looker Studio, Tableau
+- 👀 Currently exploring Modern Data Stack
 - 📫 You can reach me at kaushik.akansha2795@gmail.com.
 
 <!---
